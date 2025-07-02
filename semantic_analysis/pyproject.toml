@@ -19,6 +19,7 @@ dependencies = [
     "torch>=2.7.1",
     "tqdm>=4.67.1",
     "transformers>=4.52.4",
+    "vncorenlp>=1.0.3",
 ]
 
 [dependency-groups]
